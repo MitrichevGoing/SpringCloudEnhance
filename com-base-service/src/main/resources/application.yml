@@ -1,2 +1,8 @@
 server:
   port: 7777
+spring:
+  application:
+    name: com-base-service
+  redis:
+    host: localhost
+    database: 0
